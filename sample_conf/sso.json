@@ -12,6 +12,7 @@
 	"group_role_map": {
 		"pixlcore:owners": []
 	},
+	"group_role_separator": ",",
 	"group_privilege_map": {
 		"pixlcore:owners": ["admin"]
 	},
